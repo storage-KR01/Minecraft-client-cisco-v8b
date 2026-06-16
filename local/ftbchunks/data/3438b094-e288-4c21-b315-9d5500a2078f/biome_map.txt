@@ -1,0 +1,16 @@
+#05B minecraft:bamboo_jungle
+#556 minecraft:beach
+#284 byg:crag_gardens
+#34D minecraft:deep_lukewarm_ocean
+#010 minecraft:forest
+#4B0 minecraft:jungle
+#79A minecraft:lukewarm_ocean
+#3DC minecraft:plains
+#4AA byg:rainbow_beach
+#054 atmospheric:rainforest
+#6CE atmospheric:rainforest_basin
+#5C1 byg:red_oak_forest
+#5FF minecraft:river
+#67B minecraft:savanna
+#3AF minecraft:sparse_jungle
+#30D atmospheric:sparse_rainforest_basin

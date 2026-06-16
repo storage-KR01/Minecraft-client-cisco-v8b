@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/LEGION/AppData/Roaming/.minecraft/versions/Cisco's Fantasy Medieval RPG [Ultimate] V8B/saves/limatica
+}
+
