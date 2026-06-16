@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "2bdd0f65c55611ef84449c6b00470e68"
+	name: "komeme77"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		6F3CB38E18ED5D0F: 1
+	}
+	started: {
+		6F3CB38E18ED5D0F: 1775264873017L
+		6F010E22CD886969: 1775264873017L
+		0000000000000001: 1775264873017L
+		744084D7C7EA8A6C: 1775264873017L
+	}
+	completed: {
+		6F3CB38E18ED5D0F: 1775264873018L
+		6F010E22CD886969: 1775264873018L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
